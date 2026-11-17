@@ -1,0 +1,10 @@
+﻿root
+admin
+msfadmin
+user
+guest
+test
+postgres
+service
+ubuntu
+administrator
